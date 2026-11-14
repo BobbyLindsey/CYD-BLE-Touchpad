@@ -1,0 +1,19 @@
+# PlatformIO build & cache directories
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# IDE & editor directories
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+compile_commands.json
+
+# OS & temporary files
+.DS_Store
+._*
+*.swp
+*~
+*.bak
+*.log
